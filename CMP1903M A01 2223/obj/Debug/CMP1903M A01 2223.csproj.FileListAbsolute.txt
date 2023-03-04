@@ -1,0 +1,16 @@
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe.config
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.pdb
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.exe
+E:\VisualStudio\Repos\PlayingCardsOOP-UOL\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.pdb
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe.config
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.pdb
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.exe
+E:\VisualStudio\Repos\PCUOLTest\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.pdb
