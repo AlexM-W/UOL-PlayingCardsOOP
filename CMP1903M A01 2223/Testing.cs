@@ -15,7 +15,7 @@ namespace CMP1903M_A01_2223
             Pack pack = new Pack(); // Pack object is created.
 
 
-            Pack.ShuffleCardPack(3);
+            Pack.shuffleCardPack(3);
             Console.WriteLine("The unshuffled pack: ");
             Console.WriteLine(" ");     // The unshuffled pack is written to the console.
             foreach (Card card in Pack.pack) { 
@@ -23,7 +23,7 @@ namespace CMP1903M_A01_2223
             }
             Console.WriteLine(" ");
 
-            Pack.ShuffleCardPack(2);
+            Pack.shuffleCardPack(2);
             Console.WriteLine("The riffle shuffled pack: ");
             Console.WriteLine(" ");
             foreach (Card card in Pack.pack)    // The riffle shuffled pack is written to the console.
@@ -32,9 +32,9 @@ namespace CMP1903M_A01_2223
             }
             Console.WriteLine(" ");
 
-            Pack.ShuffleCardPack(3);    // A new unshuffle pack is created so that the next shuffle can be performed from the same order of cards.
+            Pack.shuffleCardPack(3);    // A new unshuffled pack is created so that the next shuffle can be performed from the same order of cards.
 
-            Pack.ShuffleCardPack(1);
+            Pack.shuffleCardPack(1);
             Console.WriteLine("The Fisher-Yates shuffled pack: ");
             Console.WriteLine(" ");
             foreach (Card card in Pack.pack)    // The fisher-yates shuffle is written to the console.
@@ -47,14 +47,14 @@ namespace CMP1903M_A01_2223
 
             Console.WriteLine("Single dealt card: ");
             Console.WriteLine(" ");
-            Card output = Pack.Deal();
+            Card output = Pack.deal();
             string display = AccessValueAndSuit(output);    // A single card is dealt and written to the console.
             Console.WriteLine(display);
             Console.WriteLine(" ");
 
             Console.WriteLine("5 cards dealt: ");
             Console.WriteLine(" ");
-            List<Card> outputMany = Pack.DealCard(4);
+            List<Card> outputMany = Pack.dealCard(4);
             if (outputMany != null)
             {
                 foreach (Card card in outputMany)       // Multiple cards are dealt and written to the console.
