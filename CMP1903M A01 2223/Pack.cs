@@ -34,7 +34,7 @@ namespace CMP1903M_A01_2223
 
         }  
 
-        public static bool ShuffleCardPack(int typeOfShuffle)
+        public static bool shuffleCardPack(int typeOfShuffle)
         {
             //Shuffles the pack based on the type of shuffle
 
@@ -119,7 +119,7 @@ namespace CMP1903M_A01_2223
             }
             return false;
         }
-        public static Card Deal()
+        public static Card deal()
         {
             //Deals one card
 
@@ -144,7 +144,7 @@ namespace CMP1903M_A01_2223
 
             }
         }
-        public static List<Card> DealCard(int amount)
+        public static List<Card> dealCard(int amount)
         {
             //Deals the number of cards specified by 'amount'
 
